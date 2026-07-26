@@ -1,5 +1,5 @@
 # AB-test-Ads-Campaigns
-# <span style="color: #6C63FF;">A/B-тестирование</span>: <span style="color: #FF6B6B;">анализ влияния рекламных кампаний на конверсию</span>
+# <span style='background: linear-gradient(45deg, #6C63FF, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: "Inter", sans-serif; font-weight: 800; font-size: 1.8em;'>A/B-тестирование: анализ влияния рекламных кампаний на конверсию</span>
 
 ## Цель проекта
 ### 1. Провести A/B тестирование для оценки эффективности двух рекламных кампаний (контрольной и тестовой) и определить, какая из них обеспечивает более высокую конверсию. 
